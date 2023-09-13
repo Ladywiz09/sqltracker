@@ -45,3 +45,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![Alt text](images/sqltracker1.png)
 
 ![Alt text](images/sqltracker2.png)
+
+[sqltrackervideo.webm](https://github.com/Ladywiz09/sqltracker/assets/105811958/c1e597cd-cc41-4b62-a3ea-5f9dfd788d28)
